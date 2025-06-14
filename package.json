@@ -1,6 +1,7 @@
 {
   "name": "tailwind-starter",
   "version": "0.0.1",
+  "homepage": "https://alhajimoduadam.github.io/tailwind-starter",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
